@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Welcome to My World]]></title>
+  <link href="http://beingasysadmin.com/atom.xml" rel="self"/>
+  <link href="http://beingasysadmin.com/"/>
+  <updated>2012-11-20T12:56:52+05:30</updated>
+  <id>http://beingasysadmin.com/</id>
+  <author>
+    <name><![CDATA[Deepak M Das]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
